@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<Bookmark>
+  <Title Action="GoTo" Page="15 XYZ 72 382 0" >Menus and toolbars in Java Swing
+    <Title Action="GoTo" Page="15 XYZ 72 341.3 0" >Creating a menubar</Title>
+    <Title Action="GoTo" Page="15 XYZ 72 149.8 0" >Simple menubar</Title>
+    <Title Action="GoTo" Page="19 XYZ 72 426.7 0" >Submenu</Title>
+    <Title Action="GoTo" Page="24 XYZ 72 298.4 0" >JCheckBoxMenuItem</Title>
+    <Title Action="GoTo" Page="29 XYZ 72 435.2 0" >A popup menu</Title>
+    <Title Action="GoTo" Page="33 XYZ 72 371.9 0" >JToolbar
+      <Title Action="GoTo" Page="36 XYZ 72 180.3 0" >Toolbars</Title>
+      <Title Action="GoTo" Page="41 XYZ 72 480.2 0" >A vertical toobar</Title>
+    </Title>
+  </Title>
+  <Title Action="GoTo" Page="76 XYZ 72 377.3 0" >Java Swing Events
+    <Title Action="GoTo" Page="77 XYZ 72 647.2 0" >An event object</Title>
+    <Title Action="GoTo" Page="82 XYZ 72 210.7 0" >Implementation
+      <Title Action="GoTo" Page="83 XYZ 72 720 0" >Anonymous inner class</Title>
+      <Title Action="GoTo" Page="85 XYZ 72 362.9 0" >Inner class</Title>
+      <Title Action="GoTo" Page="88 XYZ 72 562.5 0" >A derived class implementing the listener</Title>
+    </Title>
+    <Title Action="GoTo" Page="91 XYZ 72 720 0" >Multiple sources</Title>
+    <Title Action="GoTo" Page="95 XYZ 72 374.2 0" >Multiple listeners</Title>
+    <Title Action="GoTo" Page="100 XYZ 72 211.4 0" >Removing listeners</Title>
+    <Title Action="GoTo" Page="105 XYZ 72 495.2 0" >Moving a window</Title>
+    <Title Action="GoTo" Page="109 XYZ 72 495.2 0" >Adapters</Title>
+  </Title>
+  <Title Action="GoTo" Page="246 XYZ 72 160 0" >
+Painting in Swing
+    <Title Action="GoTo" Page="247 XYZ 72 601.2 0" >2D Vector Graphics
+      <Title Action="GoTo" Page="247 XYZ 72 361.2 0" >Types of primitives</Title>
+    </Title>
+    <Title Action="GoTo" Page="247 XYZ 72 157.2 0" >Points</Title>
+    <Title Action="GoTo" Page="251 XYZ 72 371.9 0" >Lines</Title>
+    <Title Action="GoTo" Page="255 XYZ 72 420.2 0" >Rectangles</Title>
+    <Title Action="GoTo" Page="259 XYZ 72 260.9 0" >Textures</Title>
+    <Title Action="GoTo" Page="266 XYZ 72 437.2 0" >Gradients</Title>
+    <Title Action="GoTo" Page="270 XYZ 72 360.2 0" >Drawing text</Title>
+    <Title Action="GoTo" Page="275 XYZ 72 270.2 0" >Images</Title>
+  </Title>
+</Bookmark>
